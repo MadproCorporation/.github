@@ -1,2 +1,2 @@
 # .github
-# no steal my code
+# yeah nothing here for you bud
